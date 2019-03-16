@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "434649341312",
+    "firebase_url": "https://maitribandh-pratishthan.firebaseio.com",
+    "project_id": "maitribandh-pratishthan",
+    "storage_bucket": "maitribandh-pratishthan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434649341312:android:0b87c8364a840b96",
+        "android_client_info": {
+          "package_name": "grdp.ganeshinc.maitringo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434649341312-84h3qoenqio78m8ugrsq6bo7or3bhka5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grdp.ganeshinc.maitringo",
+            "certificate_hash": "cf6d157cf0a2ef8bbf495b1c82d8b776c5db1431"
+          }
+        },
+        {
+          "client_id": "434649341312-51gu0la52r8pb2k12u3i2eemsmoj11kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPE-4g1hcZEdx07TvKZrorb3ZdsLqin4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434649341312-51gu0la52r8pb2k12u3i2eemsmoj11kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
